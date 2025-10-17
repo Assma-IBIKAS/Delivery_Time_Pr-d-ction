@@ -1,7 +1,5 @@
 name: Test_Projet
-on:
-  push:
-    branches: [ master ]
+on: [ master ]
 jobs:
   test:
     runs-on: windows-latest
