@@ -1,0 +1,5 @@
+EDA.ipynb
+env
+__pycache__
+.pytest_cache
+assets
