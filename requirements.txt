@@ -1,6 +1,6 @@
 pandas
 matplotlib
 numpy
-sklearn
-seaborn
+scikit-learn
 pytest
+joblib
